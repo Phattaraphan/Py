@@ -1,1 +1,3 @@
 print ('LOLLLOLLLOLLOL')
+print ('LOLLLOLLLOLLOL')
+print ('LOLLLOLLLOLLOL')
